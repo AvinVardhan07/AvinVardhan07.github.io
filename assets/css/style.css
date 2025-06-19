@@ -1,0 +1,61 @@
+*{
+    /* margin: 0em; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 12px;
+    background-color: grey  ;
+
+}
+
+header{
+    background-color: rgb(88, 88, 254);
+    padding: 15px;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+}
+
+main{
+    margin-top: 12px;
+}
+
+h2{
+    margin: 1em;
+}
+
+img{
+    margin:1em;
+    margin-bottom: 1em;
+    border-radius: 50%;                                                                                                                                                                                                                                                                                                                                             
+}
+
+section{
+    background-color: white;
+    padding: 1em;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0,1);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 1.3em;
+}
+
+th, td{
+    border:1px solid black;
+    padding: 0.8em;
+}
+
+label{
+    display: block;
+}
+
+#w{
+    width: 100%;
+}
